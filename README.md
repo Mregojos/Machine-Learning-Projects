@@ -1,9 +1,9 @@
 # ML and Data Science Projects
 
 ## [TDC Project](https://github.com/Mregojos/TDC-Project)
-> 
+> About
 
-> Tech:
+> Tech
 
 ## [BECC Project](https://github.com/Mregojos/BECC-Project)
 
