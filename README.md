@@ -1,4 +1,4 @@
-# ML and Data Science Projects
+# Machine Learning Projects
 ___
 
 ## [TDC Project](https://github.com/Mregojos/TDC-Project)
