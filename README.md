@@ -1,8 +1,8 @@
 # Machine Learning Projects
 
-## [TDP Project](https://github.com/Mregojos/TDC-Project)
+## Project: [Testosterone Deficiency Prediction (Structured Imbalanced Dataset Classification Project](https://github.com/Mregojos/TDC-Project)
 
-## [FTOWML Project](https://github.com/Mregojos/FTOWML-Project)
+## Project: [FRIENDS: The one with ML Project(Basic NLP Projet)](https://github.com/Mregojos/FTOWML-Project)
 
-## [BECC Project](https://github.com/Mregojos/BECC-Project)
+## Project: [Basic Electronic Components Image Classification (Computer Vision Project)](https://github.com/Mregojos/BECC-Project)
 
